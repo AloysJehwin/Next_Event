@@ -21,5 +21,3 @@ A social networking site using Next.js, MongoDB and Firebase.
 - setting up a MongoDB database and getting comments for a specific event.
 - handling errors and displaying user-friendly notifications.
 - deploying on Vercel.
-
-Based on [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) by Maximilian Schwarzmüller (2021).
